@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenDLRG</string>
+    <string name="header">DLRG Bezirk Lippe e.V.</string>
+    <string name="adress">DLRG Bezirk Lippe\nGeschäftsstelle\nPostfach 1169\n32826 Augustdorf</string>
+    <string name="adress_land">DLRG Bezirk Lippe, Geschäftsstelle, Postfach 1169, 32826 Augustdorf</string>
+    <string name="phone">+49 5237 236</string>
+    <string name="website">https://bez-lippe.dlrg.de</string>
+</resources>

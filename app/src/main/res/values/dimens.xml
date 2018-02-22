@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="main_margin">16dp</dimen>
+    <dimen name="icon_margin">8dp</dimen>
+    <dimen name="botton_margin">16dp</dimen>
+
+
+
+</resources>
